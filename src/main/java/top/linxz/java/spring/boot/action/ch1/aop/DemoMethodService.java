@@ -1,4 +1,4 @@
-package top.linxz.java.spring.boot.action.aop;
+package top.linxz.java.spring.boot.action.ch1.aop;
 
 import org.springframework.stereotype.Service;
 

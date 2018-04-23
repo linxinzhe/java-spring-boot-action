@@ -1,10 +1,10 @@
-package top.linxz.java.spring.boot.action.di;
+package top.linxz.java.spring.boot.action.ch1.di;
 
 import org.springframework.context.annotation.ComponentScan;
 import org.springframework.context.annotation.Configuration;
 
 @Configuration
-@ComponentScan("top.linxz.java.spring.boot.action.di")
+@ComponentScan("top.linxz.java.spring.boot.action.ch1.di")
 public class DiConfig {
 
 }

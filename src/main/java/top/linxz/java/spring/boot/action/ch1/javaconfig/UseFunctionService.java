@@ -1,4 +1,4 @@
-package top.linxz.java.spring.boot.action.javaconfig;
+package top.linxz.java.spring.boot.action.ch1.javaconfig;
 
 public class UseFunctionService {
     FunctionService functionService;

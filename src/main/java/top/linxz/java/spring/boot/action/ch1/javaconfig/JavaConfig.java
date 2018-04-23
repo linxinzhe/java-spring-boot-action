@@ -1,9 +1,7 @@
-package top.linxz.java.spring.boot.action.javaconfig;
+package top.linxz.java.spring.boot.action.ch1.javaconfig;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
-
-import javax.management.MXBean;
 
 @Configuration
 public class JavaConfig {
